@@ -1,0 +1,74 @@
+{
+    "0": {
+        "player_name": "Tom Brady",
+        "barcode_value": 0,
+        "counting_stats": 89214,
+        "position": "QB"
+    },
+    "1": {
+        "player_name": "Peyton Manning",
+        "barcode_value": 0,
+        "counting_stats": 71940,
+        "position": "QB"
+    },
+    "2": {
+        "player_name": "Patrick Mahomes",
+        "barcode_value": 0,
+        "counting_stats": 26499,
+        "position": "QB"
+    },
+    "3": {
+        "player_name": "Tony Gonzalez",
+        "barcode_value": 0,
+        "counting_stats": 15127,
+        "position": "TE"
+    },
+    "4": {
+        "player_name": "Isiah Pacheco",
+        "barcode_value": 0,
+        "counting_stats": 1289,
+        "position": "RB"
+    },
+    "5": {
+        "player_name": "Chris Jones",
+        "barcode_value": 0,
+        "counting_stats": 70.5,
+        "position": "DL"
+    },
+    "6": {
+        "player_name": "Rob Gronkowski",
+        "barcode_value": 0,
+        "counting_stats": 9286,
+        "position": "TE"
+    },
+    "7": {
+        "player_name": "Randy Moss",
+        "barcode_value": 0,
+        "counting_stats": 15292,
+        "position": "WR"
+    },
+    "8": {
+        "player_name": "Calvin Johnson",
+        "barcode_value": 0,
+        "counting_stats": 11619,
+        "position": "WR"
+    },
+    "9": {
+        "player_name": "Aaron Rodgers",
+        "barcode_value": 0,
+        "counting_stats": 59055,
+        "position": "QB"
+    },
+    "10": {
+        "player_name": "Aaron Donald",
+        "barcode_value": 0,
+        "counting_stats": 107.5,
+        "position": "DL"
+    },
+    "11": {
+        "player_name": "Ray Lewis",
+        "barcode_value": 0,
+        "counting_stats": 41.5,
+        "position": "LB"
+    }
+}
